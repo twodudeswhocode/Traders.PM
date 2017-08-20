@@ -1,5 +1,5 @@
 {
 "ACCOUNT_SID":"REPLACE",
 "AUTH_TOKEN":"REPLACE",
-"FROM_NUM":"+17377778993", //This can be public, doesn't matter
+"FROM_NUM":"+17377778993" 
 }
