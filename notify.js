@@ -3,7 +3,6 @@
 function notify(BITTREX_API,BITTREX_SECRET,to_num){
 	var twilio = require('twilio');
 	var bittrex = require('node.bittrex.api');
-	var date = new Date()
 	var settings = require('./settings.json')
 
 	var ACCOUNT_SID = settings.ACCOUNT_SID	
